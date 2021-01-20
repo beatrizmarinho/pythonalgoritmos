@@ -1,0 +1,10 @@
+# 1. Algoritmo para ligar um carro (Imprimir a sequência para ligar um carro)
+
+print('Destravar o carro')
+print('Abrir a porta do carro')
+print('Sentar no banco do motorista')
+print('Colocar o cinto de segurança')
+print('Colocar a chave na ignição')
+print('Pisar no pedal de embreagem')
+print('Verificar se o câmbio está no ponto morto')
+print('Girar a chave na ignição para dar a partida')
